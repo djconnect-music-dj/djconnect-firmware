@@ -88,7 +88,7 @@ Do not rename assets. The firmware contains LilyGO-specific display, button, aud
 - Home Assistant integration: [pcvantol/djconnect](https://github.com/pcvantol/djconnect)
 - Apple app releases: [pcvantol/djconnect-app-releases](https://github.com/pcvantol/djconnect-app-releases)
 - Raspberry Pi client releases: [pcvantol/djconnect-pi-releases](https://github.com/pcvantol/djconnect-pi-releases)
-- Firmware releases: [pcvantol/djconnect-firmware/releases](https://github.com/pcvantol/djconnect-firmware/releases)
+- Firmware releases: [djconnect-music-dj/djconnect-firmware/releases](https://github.com/djconnect-music-dj/djconnect-firmware/releases)
 
 ## Privacy And Security
 

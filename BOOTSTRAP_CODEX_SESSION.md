@@ -2,7 +2,7 @@
 
 Status: repository-local clean-session entrypoint
 
-Repository: `pcvantol/djconnect-firmware`
+Repository: `djconnect-music-dj/djconnect-firmware`
 
 ## Purpose
 
