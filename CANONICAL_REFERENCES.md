@@ -2,7 +2,7 @@
 
 Status: repository-local canonical reference map
 
-Repository: `pcvantol/djconnect-firmware`
+Repository: `djconnect-music-dj/djconnect-firmware`
 
 This repository extends the DJConnect Platform Foundation. It does not redefine
 it.
@@ -74,7 +74,7 @@ Canonical foundation documents include:
 
 ## Local Technical Design Ownership
 
-- Canonical repository: `pcvantol/djconnect-firmware` for repository-specific technical
+- Canonical repository: `djconnect-music-dj/djconnect-firmware` for repository-specific technical
   design, implementation, build, release and test details.
 - Local responsibility: maintain implementation reality for public firmware release binaries, firmware_manifest.json, release metadata and non-secret release/install documentation.
 - May this repository modify it: yes, within its ownership boundary.
