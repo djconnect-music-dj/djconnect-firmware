@@ -32,7 +32,7 @@ It publishes artifacts, manifests and release notes. It does not own product log
 
 - Do not add firmware source logic here.
 - Do not fork roadmap, sync prompts or product contracts locally.
-- Release artifacts should be traceable to source commits in `pcvantol/djconnect-esp32`.
+- Release artifacts should be traceable to source commits in `djconnect-music-dj/djconnect-esp32`.
 - Release notes should describe user-visible behavior and compatibility.
 - Do not publish secrets, signing keys, tokens, WiFi credentials, Home Assistant tokens or provider credentials.
 - Artifact integrity should be preserved with hashes/checksums where supported.
