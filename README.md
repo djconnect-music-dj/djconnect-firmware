@@ -1,8 +1,8 @@
 # DJConnect Firmware Releases
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pcvantol/djconnect/7e14e5970b3f68d33d243ae6bab2b281fad59bb2/assets/djconnect/brand-v2/wordmark-primary-dark.png">
-  <img src="https://raw.githubusercontent.com/pcvantol/djconnect/7e14e5970b3f68d33d243ae6bab2b281fad59bb2/assets/djconnect/brand-v2/wordmark-primary-light.png" alt="DJConnect" width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djconnect-music-dj/djconnect/7e14e5970b3f68d33d243ae6bab2b281fad59bb2/assets/djconnect/brand-v2/wordmark-primary-dark.png">
+  <img src="https://raw.githubusercontent.com/djconnect-music-dj/djconnect/7e14e5970b3f68d33d243ae6bab2b281fad59bb2/assets/djconnect/brand-v2/wordmark-primary-light.png" alt="DJConnect" width="640">
 </picture>
 
 DJConnect. Muziekbediening met karakter.
@@ -85,7 +85,7 @@ Do not rename assets. The firmware contains LilyGO-specific display, button, aud
 ## Related Links
 
 - Website: [https://djconnect.dev](https://djconnect.dev)
-- Home Assistant integration: [pcvantol/djconnect](https://github.com/pcvantol/djconnect)
+- Home Assistant integration: [djconnect-music-dj/djconnect](https://github.com/djconnect-music-dj/djconnect)
 - Apple app releases: [djconnect-music-dj/djconnect-app-releases](https://github.com/djconnect-music-dj/djconnect-app-releases)
 - Raspberry Pi client releases: [djconnect-music-dj/djconnect-pi-releases](https://github.com/djconnect-music-dj/djconnect-pi-releases)
 - Firmware releases: [djconnect-music-dj/djconnect-firmware/releases](https://github.com/djconnect-music-dj/djconnect-firmware/releases)
