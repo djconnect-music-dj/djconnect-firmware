@@ -7,20 +7,20 @@ For a clean Codex/AI-agent session in this repository, start here:
 `BOOTSTRAP_CODEX_SESSION.md`
 
 That local bootstrap points back to the canonical platform foundation in
-`pcvantol/djconnect` and then returns to the repository-specific rules in this
+`djconnect-music-dj/djconnect` and then returns to the repository-specific rules in this
 file. This repository extends the DJConnect Platform Foundation. It does not
 redefine it.
 
-This repository follows the canonical DJConnect design foundation in `pcvantol/djconnect`.
+This repository follows the canonical DJConnect design foundation in `djconnect-music-dj/djconnect`.
 
 Read first:
 
-- `pcvantol/djconnect/DJCONNECT_CONSTITUTION.md`
-- `pcvantol/djconnect/ARCHITECTURE_PRINCIPLES.md`
-- `pcvantol/djconnect/PLATFORM_GOVERNANCE.md`
-- `pcvantol/djconnect/PLATFORM_QUALITY_STANDARD.md`
-- `pcvantol/djconnect/SYNC_PROMPTS.md`
-- `pcvantol/djconnect/PRODUCT_ROADMAP.md`
+- `djconnect-music-dj/djconnect/DJCONNECT_CONSTITUTION.md`
+- `djconnect-music-dj/djconnect/ARCHITECTURE_PRINCIPLES.md`
+- `djconnect-music-dj/djconnect/PLATFORM_GOVERNANCE.md`
+- `djconnect-music-dj/djconnect/PLATFORM_QUALITY_STANDARD.md`
+- `djconnect-music-dj/djconnect/SYNC_PROMPTS.md`
+- `djconnect-music-dj/djconnect/PRODUCT_ROADMAP.md`
 
 ## Role
 
