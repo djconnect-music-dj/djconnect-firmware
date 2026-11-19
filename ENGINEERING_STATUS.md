@@ -22,11 +22,11 @@ Two most recent merged outcomes at this readback:
 
 ## Roadmap Position
 
-Generation and platform phase remain canonical in `pcvantol/djconnect/PRODUCT_ROADMAP.md`. Active increment: governance-only Finalization of the owner-requested GitHub README branding. Distribution ownership and current firmware/version compatibility remain unchanged. This does not close whole-platform Brand V2 or physical/installed acceptance.
+Generation and platform phase remain canonical in `djconnect-music-dj/djconnect/PRODUCT_ROADMAP.md`. Active increment: governance-only Finalization of the owner-requested GitHub README branding. Distribution ownership and current firmware/version compatibility remain unchanged. This does not close whole-platform Brand V2 or physical/installed acceptance.
 
 ## Rolling Horizon (Next 5 Planned)
 
-Canonical sources are `pcvantol/djconnect/docs/roadmap/v1/lanes/DJC-DIST-FIRMWARE.md` and platform roadmap. No new distribution capability or release is issued there. The completed README predecessor is excluded. No subsequent execution item is selected by this Finalization; no slots or automatic successor are invented. ESP32 README delivery has its own repository gates and is not claimed complete by this distribution record.
+Canonical sources are `djconnect-music-dj/djconnect/docs/roadmap/v1/lanes/DJC-DIST-FIRMWARE.md` and platform roadmap. No new distribution capability or release is issued there. The completed README predecessor is excluded. No subsequent execution item is selected by this Finalization; no slots or automatic successor are invented. ESP32 README delivery has its own repository gates and is not claimed complete by this distribution record.
 
 ## Blocked Items
 
